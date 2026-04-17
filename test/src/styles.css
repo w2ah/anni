@@ -181,7 +181,7 @@ ul {
   text-align: center;
   width: 250px;
   height: 202px;
-  background: url("src/images/countdown-img.png") center, no-repeat;
+  background: url("images/countdown-img.png") center, no-repeat;
   background-size: cover;
   -webkit-background-size: cover;
   display: flex;
@@ -222,7 +222,7 @@ ul {
     right: -18px;
     width: 35px;
     height: 30px;
-    background: url("/images/love-vector.png") no-repeat;
+    background: url("images/love-vector.png") no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
   }
@@ -234,7 +234,7 @@ ul {
     right: -18px;
     width: 35px;
     height: 30px;
-    background: url("/images/love-vector.png") no-repeat;
+    background: url("images/love-vector.png") no-repeat;
     transform: rotate(180deg);
     background-size: cover;
     -webkit-background-size: cover;
@@ -250,7 +250,7 @@ ul {
   display: inline-block;
   width: 125px;
   height: 60px;
-  background: url("/images/hand-heart-vector.png") center, no-repeat;
+  background: url("images/hand-heart-vector.png") center, no-repeat;
   background-size: cover;
   -webkit-background-size: cover;
 }
@@ -368,7 +368,7 @@ ul {
 .story-detail-img {
   height: 530px;
   width: 100%;
-  background: url("/images/title-image-4.jpg") center no-repeat;
+  background: url("images/title-image-4.jpg") center no-repeat;
   background-size: cover !important;
   -webkit-background-size: cover !important;
   text-align: center;
@@ -496,7 +496,7 @@ ol {
 .end-img {
   height: 600px;
   width: 100%;
-  background: url("/images/end-img.jpg") center no-repeat;
+  background: url("images/end-img.jpg") center no-repeat;
   background-size: cover !important;
   -webkit-background-size: cover !important;
   text-align: center;
