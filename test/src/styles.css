@@ -234,7 +234,7 @@ ul {
     right: -18px;
     width: 35px;
     height: 30px;
-    background: url("src/love-vector.png") no-repeat;
+    /* background: url("src/love-vector.png") no-repeat; */
     transform: rotate(180deg);
     background-size: cover;
     -webkit-background-size: cover;
