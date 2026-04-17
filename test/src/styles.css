@@ -181,7 +181,7 @@ ul {
   text-align: center;
   width: 250px;
   height: 202px;
-  background: url("/images/countdown-img.png") center, no-repeat;
+  background: url("src/images/countdown-img.png") center, no-repeat;
   background-size: cover;
   -webkit-background-size: cover;
   display: flex;
